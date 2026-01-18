@@ -22,4 +22,4 @@ Get-FileHash -Algorithm SHA256 dailystuff-1.0.0-beta.1.apk
 
 | 文件 | SHA256 |
 |-----|--------|
-| dailystuff-1.0.0-beta.1.apk | `45aff4f1160385ea33501e6fdcf05f9c54abd0557c9226b1e72f59203c096674` |
+| dailystuff-1.0.0-beta.1.apk | `c5a6cc2be31d41ca3f6fab21f6d8cf85e4629278c28555961bf44103f43d49d5` |
